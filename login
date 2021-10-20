@@ -1,1 +1,1 @@
-function(name,pwd)
+function(username,pwd)
